@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Fashion And Clothing...",
+    "paragraph": "TA Merchandise is an online group of companies that operates in the fashion & clothing industry and online shopping for fabrics... Let's be your plug on anything Fashion and Clothing"
+  },
+  "About": {
+    "paragraph": "TA Merchandise is one of the first online fashion designing and fabric retailing platform that delivers apparel and accessories, maximizes entrepreneur productivity and simplifies the manufacturing process. We empower, stimulate and cultivate fashion talent worldwide, revolutionizing and democratizing the entire fashion industry. Our mission is to promote fashion and fabric manufacturing worldwide",
+    "Why": [
+      "We are the best",
+      "We are reliable",
+      "We are professionals",
+      "We promote diversity"
+    ],
+    "Why2": [
+      "Innovative thinking",
+      "Accountability",
+      "Seamless interaction",
+      "Progessive thinking"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Turkish Conceptual",
+      "largeImage": "img/portfolio/p1-lg.jpeg",
+      "smallImage": "img/portfolio/p1-sm.jpeg"
+    },
+    {
+      "title": "Siesta Beach US",
+      "largeImage": "img/portfolio/p2-lg.jpeg",
+      "smallImage": "img/portfolio/p2-sm.jpeg"
+    },
+    {
+      "title": "Mike Fox",
+      "largeImage": "img/portfolio/p3-lg.jpeg",
+      "smallImage": "img/portfolio/p3-sm.jpeg"
+    },
+    {
+      "title": "Boho Bali Leather",
+      "largeImage": "img/portfolio/p4-lg.jpeg",
+      "smallImage": "img/portfolio/p4-sm.jpeg"
+    },
+    {
+      "title": "Brand Analysis",
+      "largeImage": "img/portfolio/p8-lg.jpeg",
+      "smallImage": "img/portfolio/p8-sm.jpeg"
+    },
+    {
+      "title": "Creative Entrepreneur",
+      "largeImage": "img/portfolio/p6-lg.jpeg",
+      "smallImage": "img/portfolio/p6-sm.jpeg"
+    },
+    {
+      "title": "Urban Lifestyle",
+      "largeImage": "img/portfolio/p7-lg.jpeg",
+      "smallImage": "img/portfolio/p7-sm.jpeg"
+    },
+    {
+      "title": "Matina Di Pisa",
+      "largeImage": "img/portfolio/p5-lg.jpeg",
+      "smallImage": "img/portfolio/p5-sm.jpeg"
+    },
+    {
+      "title": "Technical Drawings",
+      "largeImage": "img/portfolio/p9-lg.jpeg",
+      "smallImage": "img/portfolio/p9-sm.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Fabric Prototyping",
+      "text": "TA Merchandise can assist you with the sewing of your clothing samples. Our experts will assist you with perfect garment construction. We have an experienced team with dexterous creativity."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Retail Store Planning",
+      "text": "Develop thematic concepts for fashion retailers. Design and execute floor plan, fixtures, lighting, and display systems for optimum presentation."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Technical Drawings and Renderings",
+      "text": "Render technical drawings with all dimensions and written instructions needed to produce prototype. High quality renderings and fashion illustrations suitable for scanning or faxing."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Brand Analysis",
+      "text": "In-depth research of client's brand perspective and evaluation of product line. Submit report on findings, highlighting existing brand strengths and opportunities."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Logistics and Supply Chain",
+      "text": "TA Merchandise offer services designed for the international Fashion and Clothing and Online Retailing industries."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Fashion Reporting",
+      "text": "Shop Europe or worldwide cities for key retail trends. Submit report, compile media presentation or personally or personally present trends along with photographs."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Great experience, would definitely like to work on another project. Well rated!\"",
+      "name": "Matty Cash"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"My expectations were raised, what a great company that keeps to their words.\"",
+      "name": "Tommy Egan"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Company shows authenticity and standards. Thank you for such an amazing experience\"",
+      "name": "Saint Patrick"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lived up to the billings. The best service out there for unimagineable fee.\"",
+      "name": "Janet Jackson"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Innovative environment. Great philosohy, Good project execution and application of technology\"",
+      "name": "Jackie Chan"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Best retailing company out there, TA Merchandise is definetely heading in the right direction.\"",
+      "name": "Tom Cruise"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/photo.jpeg",
+      "name": "Tobi Akindele",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/zee.jpeg",
+      "name": "Zee Akindele",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "College Road, Stoke-on-Trent, Staffordshire, ST4 2DE ",
+    "phone": "+ 44 7494 717575",
+    "email": "info@ta.merchandise.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-bolt",
+      "title": "World Delivery",
+      "text": "We offer delivery of orders world-wide at unbeatable fees and shortest duration."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Fashion & Design",
+      "text": "We have the best fabric designers, checkout our gallery for some of our works."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Fabric Retailing",
+      "text": "We deal in online retaling, checkout our store for more deals."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Manufacturing",
+      "text": "We also have a long lasting reputation in fabric manufacturing."
+    }
+  ]
+}
