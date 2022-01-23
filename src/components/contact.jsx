@@ -9,7 +9,10 @@ export const Contact = (props) => {
       return { ...prev, [e.target.name]: e.target.value };
     });
   };
-  console.log(inputs);
+
+  const wordsCount = (str) => {
+    return str.trim().split(/\s+/).length;
+  };
 
   const validate = () => {
     const { name, email, message } = inputs;
@@ -25,8 +28,8 @@ export const Contact = (props) => {
       alert('Please fill in your message');
       return true;
     }
-    if (message.length > 200) {
-      alert('Only 200 characters allowed');
+    if (wordsCount(message) > 200) {
+      alert('Only 200 words allowed');
       return true;
     }
   };
